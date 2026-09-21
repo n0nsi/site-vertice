@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#121110"/><stop offset="1" stop-color="#2a2420"/></linearGradient><radialGradient id="r"><stop stop-color="#B9783A" stop-opacity=".32"/><stop offset="1" stop-color="#B9783A" stop-opacity="0"/></radialGradient></defs>
+<rect width="100%" height="100%" fill="url(#g)"/><circle cx="702" cy="169" r="257" fill="url(#r)"/>
+<path d="M0 500 L252 338 L468 432 L648 257 L900 392 V675 H0Z" fill="#B9783A" opacity=".12"/>
+<g fill="#F7F2EB" font-family="Arial,Helvetica,sans-serif"><text x="63" y="520" font-size="32" font-weight="700" letter-spacing="3">VÉRTICE</text><text x="63" y="560" font-size="16" opacity=".78" letter-spacing="2">VIDROS & ESQUADRIAS</text><text x="63" y="614" font-size="13" fill="#B9783A" letter-spacing="2">PROJETO 01</text></g></svg>

@@ -1,0 +1,20 @@
+{
+  "name": "vertice-demo-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.19.0",
+  "engines": {
+    "node": ">=22.16.0"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs && node scripts/validate.mjs",
+    "test": "node --test scripts/build.test.mjs",
+    "quality": "pnpm run build && pnpm test",
+    "check:deploy": "pnpm run build && wrangler deploy --dry-run",
+    "dev": "pnpm run build && wrangler dev --local"
+  },
+  "devDependencies": {
+    "wrangler": "4.135.0"
+  }
+}
